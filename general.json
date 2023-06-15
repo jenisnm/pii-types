@@ -5,13 +5,6 @@
         {"name":"token","regexPattern":".*token.*", "sensitive":true, "onKey": true},
         {"name":"secret","regexPattern":".*secret.*", "sensitive":true, "onKey": true},
         {"name":"database","regexPattern":".*database.*", "sensitive":true, "onKey": true},
-        {"name":"Birth","regexPattern":".*(?i)birth.*", "sensitive":true, "onKey": true, "active": false},
-        {"name":"DOB","regexPattern":".*(?i)dob.*", "sensitive":true, "onKey": true, "active": false},
-        {"name":"Auth","regexPattern":".*(?i)auth.*", "sensitive":true, "onKey": true, "active": false},
-        {"name":"Contact","regexPattern":".*(?i)contact.*", "sensitive":true, "onKey": true, "active": false},
-        {"name":"AddressKey","regexPattern":".*(?i)address.*", "sensitive":true, "onKey": true, "active": false},
-        {"name":"StreetLine","regexPattern":".*(?i)streetLine.*", "sensitive":true, "onKey": true, "active": false},
-        {"name":"licence","regexPattern":".*(?i)licence.*", "sensitive":true, "onKey": true, "active": false}
-        
+        {"name":"Birth","regexPattern":".*(?i)birth.*", "sensitive":true, "onKey": true, "active": false}
     ]
 }
