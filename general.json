@@ -14,8 +14,6 @@
         {"name":"licence","regexPattern":".*(?i)licence.*", "sensitive":true, "onKey": true, "active": false},
         {"name":"license","regexPattern":".*(?i)license.*", "sensitive":true, "onKey": true, "active": false},
         {"name":"Passport","regexPattern":".*(?i)passport.*", "sensitive":true, "onKey": true, "active": false},
-        {"name":"Bank","regexPattern":".*(?i)bank.*", "sensitive":true, "onKey": true, "active": false},
-        {"name":"Pin","regexPattern":".*(?i)pin.*", "sensitive":true, "onKey": true, "active": false},
-        {"name":"Ein","regexPattern":".*(?i)ein.*", "sensitive":true, "onKey": true, "active": false}
+        {"name":"Bank","regexPattern":".*(?i)bank.*", "sensitive":true, "onKey": true, "active": false}
     ]
 }
